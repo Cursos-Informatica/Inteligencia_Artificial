@@ -147,3 +147,12 @@ Resurge el interés en redes neuronales con avances en algoritmos de aprendizaje
 - La IA se expande hacia Internet con sistemas inteligentes como bots, motores de búsqueda y sistemas de recomendación.
 
 - Se consolida la visión de la IA como el diseño de agentes racionales, unificando subcampos como visión por computadora, robótica y teoría de control.
+
+## Referencias en el cine
+
+A.I. Inteligencia Artificial (2001) – Un niño robot con emociones humanas busca convertirse en real.
+Yo, Robot (2004) – Inspirada en las historias de Isaac Asimov, presenta a una IA que desafía las Tres Leyes de la Robótica.
+Her (2013) – Un hombre desarrolla una relación con un sistema operativo con inteligencia emocional avanzada.
+
+
+
