@@ -123,9 +123,17 @@ Siglo XIX: Se desarrolla la teoría matemática de los sistemas con retroaliment
 
 1946: ENIAC, desarrollado por John Mauchly y John Eckert, se convierte en el precursor de los computadores modernos.
 
-1948: Norbert Wiener publica Cybernetics, estableciendo la cibernética y la teoría de control.
+1948: Norbert Wiener publica Cybernetics, en su libro "Cybernetics: Or Control and Communication in the Animal and the Machine" (1948), Wiener definió la cibernética como el estudio de sistemas de control y retroalimentación.Explicó cómo las máquinas pueden autocorregirse con información, similar a cómo los organismos ajustan su comportamiento con base en el entorno. Introdujo el concepto de homeostasis en sistemas mecánicos, clave para la robótica y la automatización.
+
+https://www.youtube.com/watch?v=skdfG4TA2ow
+
 
 1950s: Wiener, McCulloch, Pitts y von Neumann organizan conferencias sobre modelos matemáticos y computacionales para la cognición.
+
+1958 "The Computer and the Brain" John Von Neumann, explora similitudes entre el cerebro humano y las computadoras. Habla sobre procesamiento paralelo y autoaprendizaje, conceptos clave en IA.
+
+https://www.youtube.com/watch?v=O2O4hneA-tk
+
 
 <p align="center">
 <img src="img/Cronologia_Informatica.png" width="500">
