@@ -4,7 +4,12 @@
 
 Un agente es cualquier entidad capaz de percibir su entorno mediante sensores y actuar en él mediante actuadores. Los agentes pueden ser humanos (con ojos, oídos, manos, etc.) o robots (que reciben información de archivos, teclado o red y responden con mensajes, archivos o paquetes).
 
-![Agentes](img/Agente.png){width="200"}
+<img src="img/Agente.png" width="100">
+
+
+![Agentes](img/Agente.png)
+
+
 https://github.com/Cursos-Informatica/Inteligencia_Artificial/blob/main/Agentes_Inteligentes/img/Agente.png
 
 El comportamiento de un agente se describe mediante su función de agente, que asigna una acción a cada secuencia de percepciones. Esta función puede representarse en una tabla, aunque generalmente es demasiado grande. Para agentes artificiales, esta función se implementa mediante un programa del agente en una arquitectura específica.
