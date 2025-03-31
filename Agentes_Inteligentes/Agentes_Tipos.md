@@ -110,12 +110,22 @@ En Conclusión, el diseño de un agente racional requiere una comprensión detal
     - Pueden caer en bucles infinitos.
     - La aleatoriedad puede mejorar su desempeño en ciertos casos, pero sigue siendo un enfoque limitado.
 
+
+<p align="center">
+<img src="img/Agente_Simple.png" width="500">
+</p>
+
 ### 2. Agentes Reactivos Basados en Modelos
 - Definición: Incorporan un estado interno para representar información sobre partes del mundo que no pueden ver directamente.
 - Ejemplo: Un coche autónomo que recuerda la posición de otros vehículos aunque no los tenga a la vista.
 - Funcionamiento:
     - Utilizan un modelo del mundo que representa cómo evolucionan los objetos y cómo afectan las acciones del agente.
     - Se combinan percepciones actuales con el estado interno para tomar decisiones más informadas.
+
+
+<p align="center">
+<img src="img/Agente_Modelo.png" width="500">
+</p>
 
 ### 3. Agentes Basados en Objetivos
 - Definición: Además de percibir el mundo, tienen metas que guían sus decisiones.
@@ -128,6 +138,11 @@ En Conclusión, el diseño de un agente racional requiere una comprensión detal
     - Más flexibles que los agentes reactivos.
     - Permiten adaptaciones dinámicas (ej. ajustar el comportamiento según el clima).
 
+
+<p align="center">
+<img src="img/Agente_Objetivo.png" width="500">
+</p>
+
 ### 4. Agentes Basados en Utilidad
 - Definición: No solo buscan alcanzar metas, sino que optimizan la calidad de sus decisiones mediante una función de utilidad.
 - Ejemplo: Un taxi que elige la ruta más rápida y segura en lugar de solo llegar al destino.
@@ -138,6 +153,11 @@ En Conclusión, el diseño de un agente racional requiere una comprensión detal
 - Ventajas:
     - Pueden manejar situaciones con objetivos en conflicto.
     - Permiten decisiones óptimas incluso en entornos inciertos.
+
+
+<p align="center">
+<img src="img/Agente_Utilidad.png" width="500">
+</p>
 
 ### 5. Agentes que Aprenden
 - Definición: Son capaces de mejorar su desempeño a lo largo del tiempo mediante el aprendizaje.
@@ -152,3 +172,7 @@ Ventajas:
     - Pueden adaptarse a entornos desconocidos.
     - Mejoran con la experiencia, evitando la necesidad de programar todas las reglas manualmente.
 
+
+<p align="center">
+<img src="img/Agente_Apredizaje.png" width="500">
+</p>
