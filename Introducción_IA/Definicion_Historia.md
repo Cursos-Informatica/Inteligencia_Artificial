@@ -245,6 +245,17 @@ Resurge el interés en redes neuronales con avances en algoritmos de aprendizaje
 
 - Se consolida la visión de la IA como el diseño de agentes racionales, unificando subcampos como visión por computadora, robótica y teoría de control.
 
+### Años 2010 en adelante:
+
+- Creación de DeepMind
+- Elon Musk vs Larry Page batalla de la ética.
+- Creación de OpenIA, Elon Musk y Sam Altman
+- Descubrimiento del Transformador
+
+https://www.youtube.com/watch?v=dULMDS_VJE8&t=614s
+
+
+
 ## Referencias en el cine
 
 - A.I. Inteligencia Artificial (2001) – Un niño robot con emociones humanas busca convertirse en real.
