@@ -176,3 +176,42 @@ Ventajas:
 <p align="center">
 <img src="img/Agente_Apredizaje.png" width="500">
 </p>
+
+## Ejercicios
+
+1. Identifique la descripción REAS que define el entorno de trabajo para cada uno de
+los siguientes agentes:
+
+a) Aspiradora de 1x2;
+Este problema de juguete tiene localizaciones discretas, suciedad discreta, limpieza fiable, y nunca se ensucia una vez que se ha limpiado. . Una cosa a tener en cuenta es que el estado está determinado por la localización del agente y por las localizaciones de la suciedad.
+Un entorno grande con n localizaciones tiene n por 2 a la n estados.
+
+<p align="center">
+<img src="img/aspiradora.png" width="500">
+</p>
+
+b) 8-puzle;
+El 8-puzle pertenece a la familia de puzles con piezas deslizantes, los cuales a menudo se usan como problemas test para los nuevos algoritmos de IA. Esta clase general se conoce por ser NP completa, así que no esperamos encontrar métodos perceptiblemente mejores (en el caso peor) que los algoritmos de búsqueda descritos en este capítulo y en el siguiente. El 8-puzle tiene 9! / 2 = 181,440 estados alcanzables y se
+resuelve fácilmente. El 15 puzle (sobre un tablero de 4 x 4) tiene alrededor de 1,3 trillones de estados, y configuraciones aleatorias pueden resolverse óptimamente en pocos milisegundos por los mejores algoritmos de búsqueda. El 24 puzle (sobre un tablero de 5 x 5) tiene alrededor de 1025 estados, y configuraciones aleatorias siguen siendo absolutamente difíciles de resolver de manera óptima con los computadores y algoritmos actuales.
+
+<p align="center">
+<img src="img/8-puzle.png" width="500">
+</p>
+
+c) 8-reinas;
+
+El objetivo del problema de las 8-reinas es colocar las ocho reinas en un tablero de ajedrez de manera que cada reina no ataque a ninguna otra. (Una reina ataca alguna pieza si está en la misma fila, columna o diagonal.) La Figura muestra una configuración que no es solución: la reina en la columna de más a la derecha está atacando a la reina de arriba a la izquierda.
+
+<p align="center">
+<img src="img/8-reinas.png" width="500">
+</p>
+
+d) Juego de Wumpus (https://www.youtube.com/watch?v=1Aa5IhdnPwU)
+Acceder al Juego Online (https://thiagodnf.github.io/wumpus-world-simulator/)
+
+e) Cubo de Rubik
+
+2. Indique las Propiedades de Entorno (p.e. (parcialmente observable, estocástico, secuencial, dinámico, continuo y multiagente)) de los agentes anteriores
+
+3. Seleccione el diseño de agente adecuado y explique cada uno de los componentes internos del agente.
+
