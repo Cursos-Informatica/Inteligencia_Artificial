@@ -270,5 +270,9 @@ https://www.youtube.com/watch?v=dULMDS_VJE8&t=614s
 - Yo, Robot (2004) – Inspirada en las historias de Isaac Asimov, presenta a una IA que desafía las Tres Leyes de la Robótica.
 - Her (2013) – Un hombre desarrolla una relación con un sistema operativo con inteligencia emocional avanzada.
 
+## Investigación
+
+Explicación de diferencia entre CPU Procesador y Tarjeta Grafica
+
 
 
