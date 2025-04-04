@@ -14,6 +14,8 @@ Lo llamaremos Curso_IA
 <img src="img/crear_ambiente.png" width="500">
 </p>
 
+## Instalar Libreria Pandas
+
 Apretamos el boton circular verde y hacemos click en Abrir Terminal (Open Terminal) y probamos ejecutar la instalación de la libreria de panda.
 
 ```
@@ -22,4 +24,12 @@ Apretamos el boton circular verde y hacemos click en Abrir Terminal (Open Termin
 
 <p align="center">
 <img src="img/instalacion_pandas.png" width="500">
+</p>
+
+## Instalar Jupiter
+
+Seleccionamos HOME y buscamos Jupiter.
+
+<p align="center">
+<img src="img/instalacion_jupiter.png" width="500">
 </p>
