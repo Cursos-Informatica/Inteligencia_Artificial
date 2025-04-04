@@ -38,6 +38,8 @@ __Formas de Aprendizaje__
 __Inducción vs. Deducción__
 La inducción generaliza a partir de datos (ej. "el sol siempre ha salido, lo hará mañana"), pero no garantiza certeza, a diferencia de la deducción lógica.
 
+https://www.youtube.com/watch?v=yKCmn7utNRc&t=426s
+
 __Modelos de Aprendizaje__
 El aprendizaje puede manejar datos representados como vectores de atributos (factored), estructuras atómicas o modelos relacionales. Según la naturaleza de la salida, el problema puede clasificarse como:
 
