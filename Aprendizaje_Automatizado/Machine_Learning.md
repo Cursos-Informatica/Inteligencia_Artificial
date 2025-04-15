@@ -31,6 +31,8 @@ El aprendizaje automático es una parte esencial del desarrollo de software. Eje
 
 __Formas de Aprendizaje__
 
+https://www.youtube.com/watch?v=oT3arRRB2Cw
+
 - __Aprendizaje supervisado__: El agente aprende a partir de ejemplos etiquetados (ej. reconocer peatones en imágenes).
 - __Aprendizaje no supervisado__: Encuentra patrones sin etiquetas explícitas (ej. agrupar imágenes similares).
 - __Aprendizaje por refuerzo__: Aprende de recompensas y castigos (ej. mejorar su estrategia en ajedrez).
@@ -87,6 +89,8 @@ __Principio de Simplicidad y Aprendizaje Profundo__
 
 __Expresividad vs. Complejidad__
 Modelos más expresivos pueden representar mejor los datos, pero encontrar una buena hipótesis en ellos puede ser computacionalmente difícil. Se buscan representaciones balanceadas entre expresividad y eficiencia de cómputo.
+
+
 
 
 
