@@ -35,3 +35,10 @@ Seleccionamos HOME y buscamos Jupiter.
 <p align="center">
 <img src="img/instalacion_jupiter.png" width="500">
 </p>
+
+
+### Descargar archivos de trabajo
+- Casos Practico - [Descargar](/Aprendizaje_Automatizado/casos_practicos_machine_learning.zip)
+- Datos - [Descargar](/Aprendizaje_Automatizado/datasets.zip)
+
+
