@@ -101,10 +101,8 @@ En Conclusión, el diseño de un agente racional requiere una comprensión detal
 
 ## Ejercicios
 
-Descargar el siguiente archivo ( [DESCARGAR](/Agentes_Inteligentes/Actividad%20sobre%20Agentes.xlsx)), y completarlo con los siguientes ejercicios:
-
-1. Identifique la descripción REAS que define el entorno de trabajo para cada uno de
-los siguientes agentes:
+1. Descargar el siguiente archivo [DESCARGAR](/Agentes_Inteligentes/Actividad%20sobre%20Agentes.xlsx))
+2. Lea los siguientes ejercicios:
 
 a) Aspiradora de 1x2;
 Este problema de juguete tiene localizaciones discretas, suciedad discreta, limpieza fiable, y nunca se ensucia una vez que se ha limpiado. . Una cosa a tener en cuenta es que el estado está determinado por la localización del agente y por las localizaciones de la suciedad.
@@ -135,5 +133,7 @@ Acceder al Juego Online (https://thiagodnf.github.io/wumpus-world-simulator/)
 
 e) Cubo de Rubik
 
-2. Indique las Propiedades de Entorno (p.e. (parcialmente observable, estocástico, secuencial, dinámico, continuo y multiagente)) de los agentes anteriores
 
+3. Complete el archivo de la Columna B hasta la F (Identifique la descripción REAS que define el entorno de trabajo para los ejercicios revisados en el punto 2).
+
+4. Complete el archivo de la Columna G hasta la L (Indique las Propiedades de Entorno para los ejercicios revisados en el punto 2)
