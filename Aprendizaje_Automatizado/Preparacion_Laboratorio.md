@@ -38,7 +38,7 @@ Seleccionamos HOME y buscamos Jupiter.
 
 
 ### Descargar archivos de trabajo
-- Casos Practico - [Descargar](/Aprendizaje_Automatizado/casos_practicos_machine_learning.zip)
-- Datos - [Descargar](/Aprendizaje_Automatizado/datasets.zip)
+- Casos Practico - [Descargar](https://drive.google.com/file/d/1WQy0Ggc0EUJSDx7n6RhJz78fgjSwOZwr/view?usp=sharing)
+- Datos - [Descargar](https://drive.google.com/file/d/1NhlzPS0VeVj4x1oSFYHK3t-5IArzF2Vh/view?usp=sharing)
 
 
