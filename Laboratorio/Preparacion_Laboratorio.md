@@ -13,7 +13,7 @@ https://www.anaconda.com/download/success
 Lo llamaremos Curso_IA
 
 <p align="center">
-<img src="img/crear_ambiente.png" width="500">
+<img src="/Laboratorio/img/crear_ambiente.png" width="500">
 </p>
 
 ### Instalar Librerias
@@ -28,7 +28,7 @@ Apretamos el boton circular verde y hacemos click en Abrir Terminal (Open Termin
 ```
 
 <p align="center">
-<img src="img/instalacion_pandas.png" width="500">
+<img src="/Laboratorio/img/instalacion_pandas.png" width="500">
 </p>
 
 ### Instalar Jupiter
@@ -36,7 +36,7 @@ Apretamos el boton circular verde y hacemos click en Abrir Terminal (Open Termin
 Seleccionamos HOME y buscamos Jupiter.
 
 <p align="center">
-<img src="img/instalacion_jupiter.png" width="500">
+<img src="/Laboratorio/img/instalacion_jupiter.png" width="500">
 </p>
 
 
