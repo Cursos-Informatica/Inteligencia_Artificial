@@ -13,7 +13,7 @@ https://www.anaconda.com/download/success
 Lo llamaremos Curso_IA
 
 <p align="center">
-<img src="/Laboratorio/img/crear_ambiente.png" width="500">
+<img src="img/crear_ambiente.png" width="500">
 </p>
 
 ### Instalar Librerias
@@ -28,7 +28,7 @@ Apretamos el boton circular verde y hacemos click en Abrir Terminal (Open Termin
 ```
 
 <p align="center">
-<img src="/Laboratorio/img/instalacion_pandas.png" width="500">
+<img src="img/instalacion_pandas.png" width="500">
 </p>
 
 ### Instalar Jupiter
@@ -36,13 +36,13 @@ Apretamos el boton circular verde y hacemos click en Abrir Terminal (Open Termin
 Seleccionamos HOME y buscamos Jupiter.
 
 <p align="center">
-<img src="/Laboratorio/img/instalacion_jupiter.png" width="500">
+<img src="img/instalacion_jupiter.png" width="500">
 </p>
 
 
 ## SECCION 02 : Introducción a Numpy
 
-Paso 01: Descargar el siguiente archivo - [Descargar](/Laboratorio/numpy.ipynb), y procedemos a guardarlo en nuestra carpeta de usuario de la computadora local que tenemos. (p.e C:\Users\rodrigo)
+Paso 01: Descargar el siguiente archivo - [Descargar](source/numpy.ipynb), y procedemos a guardarlo en nuestra carpeta de usuario de la computadora local que tenemos. (p.e C:\Users\rodrigo)
 
 El detalle de temas a tratar se muestran a continuación:
 
@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=cYm3DBG6KfI
 
 ## SECCION 03 : Introducción a Panda
 
-Paso 01: Descargar el siguiente archivo - [Descargar](/Laboratorio/pandas-notebook.ipynb), [CVS](/Laboratorio/dataset.csv) y procedemos a guardarlo en nuestra carpeta de usuario de la computadora local que tenemos. (p.e C:\Users\rodrigo)
+Paso 01: Descargar el siguiente archivo - [Descargar](source/pandas-notebook.ipynb), [CVS](data/dataset.csv) y procedemos a guardarlo en nuestra carpeta de usuario de la computadora local que tenemos. (p.e C:\Users\rodrigo)
 
 El detalle de temas a tratar se muestran a continuación:
 
