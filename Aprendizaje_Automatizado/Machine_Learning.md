@@ -40,8 +40,6 @@ https://www.youtube.com/watch?v=oT3arRRB2Cw
 __Inducción vs. Deducción__
 La inducción generaliza a partir de datos (ej. "el sol siempre ha salido, lo hará mañana"), pero no garantiza certeza, a diferencia de la deducción lógica.
 
-https://www.youtube.com/watch?v=yKCmn7utNRc&t=426s
-
 __Modelos de Aprendizaje__
 El aprendizaje puede manejar datos representados como vectores de atributos (factored), estructuras atómicas o modelos relacionales. Según la naturaleza de la salida, el problema puede clasificarse como:
 
@@ -89,6 +87,11 @@ __Principio de Simplicidad y Aprendizaje Profundo__
 
 __Expresividad vs. Complejidad__
 Modelos más expresivos pueden representar mejor los datos, pero encontrar una buena hipótesis en ellos puede ser computacionalmente difícil. Se buscan representaciones balanceadas entre expresividad y eficiencia de cómputo.
+
+
+### Descargar archivos de trabajo
+- Casos Practico - [Descargar](https://drive.google.com/file/d/1WQy0Ggc0EUJSDx7n6RhJz78fgjSwOZwr/view?usp=sharing)
+- Datos - [Descargar](https://drive.google.com/file/d/1NhlzPS0VeVj4x1oSFYHK3t-5IArzF2Vh/view?usp=sharing)
 
 
 
