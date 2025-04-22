@@ -41,15 +41,13 @@ El aprendizaje automático es una parte esencial del desarrollo de software. Eje
 - Mejora de arquitecturas de computación según Google AI.
 
 
-## Clasificación de los sistemas de Machine Learning
+## Tipos de los sistemas de Machine Learning
 
-
-
+https://www.youtube.com/watch?v=oT3arRRB2Cw
 
 
 __Formas de Aprendizaje__
 
-https://www.youtube.com/watch?v=oT3arRRB2Cw
 
 - __Aprendizaje supervisado__: El agente aprende a partir de ejemplos etiquetados (ej. reconocer peatones en imágenes).
 - __Aprendizaje no supervisado__: Encuentra patrones sin etiquetas explícitas (ej. agrupar imágenes similares).
@@ -68,6 +66,8 @@ El aprendizaje puede manejar datos representados como vectores de atributos (fac
 - Regresión: Predicción de valores numéricos (ej. temperatura del día siguiente).
 
 Este capítulo sienta las bases para entender cómo los agentes pueden aprender y mejorar su rendimiento a partir de la experiencia.
+
+- [Laboratorio 02 : Introducción a Panda](/00_Laboratorio/Laboratorio02.md)
 
 
 

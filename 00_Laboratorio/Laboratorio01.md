@@ -1,7 +1,7 @@
 
 ## Laboratorio 01 : Introducción a Numpy
 
-Paso 01: Descargar el siguiente archivo - [Descargar](source/numpy.ipynb), y procedemos a guardarlo en nuestra carpeta de usuario de la computadora local que tenemos. (p.e C:\Users\rodrigo)
+Paso 01: Ingresamos al siguiente enlace [link](source/lab01-numpy.ipynb),y lo vamos ingresando en jupiter notebook.
 
 Paso 02: La explicación para el uso de esta libreria se encuentran en el siguiente video.
 
