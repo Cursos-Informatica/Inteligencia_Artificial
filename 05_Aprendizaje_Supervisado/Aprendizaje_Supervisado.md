@@ -43,11 +43,9 @@ Distintas elecciones de 𝐻 generan diferentes ajustes a los datos:
 4. Polinomios de grado alto: Pueden ajustarse perfectamente a los datos de entrenamiento, pero tienen alto riesgo de sobreajuste.
 
 
+## Laboratorio 03:
 
-## Laboratorio 04:
+Revisar el ejercicio que se encuentra en el siguiente [enlace](/00_Laboratorio/Laboratorio03.md)
 
-Revisar el ejercicio que se encuentra en el siguiente [enlace](/00_Laboratorio/Laboratorio04-checkpoint.ipynb)
-
-Realizar el laboratorio y obtener el costo para un incidente que afecta a 1300 computadoras.
 
 

@@ -9,3 +9,5 @@ El detalle de temas a tratar se muestran a continuación:
 - Modificación de conjunto de datos
 - Construcción de modelo
 - Predicción de nuevos ejemplos
+
+Paso 02: Realizar el laboratorio y obtener el costo para un incidente que afecta a 1300 computadoras.

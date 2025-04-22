@@ -67,10 +67,9 @@ El aprendizaje puede manejar datos representados como vectores de atributos (fac
 
 Este capítulo sienta las bases para entender cómo los agentes pueden aprender y mejorar su rendimiento a partir de la experiencia.
 
-- [Laboratorio 02 : Introducción a Panda](/00_Laboratorio/Laboratorio02.md)
+## Laboratorio 02:
 
-
-
+Revisar el ejercicio que se encuentra en el siguiente [enlace](/00_Laboratorio/Laboratorio02.md)
 
 
 
