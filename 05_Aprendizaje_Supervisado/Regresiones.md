@@ -22,5 +22,5 @@ y = variables de salida
 
 __Función de hipótesis__
 
-h_{\theta}
+$$h_{\theta}(x)=\theta_{0}+\theta_{1}x$$
 
