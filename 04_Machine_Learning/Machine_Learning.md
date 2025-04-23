@@ -62,7 +62,12 @@ La inducción generaliza a partir de datos (ej. "el sol siempre ha salido, lo ha
 __Modelos de Aprendizaje__
 El aprendizaje puede manejar datos representados como vectores de atributos (factored), estructuras atómicas o modelos relacionales. Según la naturaleza de la salida, el problema puede clasificarse como:
 
-- Clasificación: Predicción de valores discretos (ej. soleado/lluvioso).
+- Clasificación: Predicción de valores discretos (ej. spam/no spam).
+
+<p align="center">
+<img src="img/modelo_spam.png" width="500">
+</p>
+
 - Regresión: Predicción de valores numéricos (ej. temperatura del día siguiente).
 
 Este capítulo sienta las bases para entender cómo los agentes pueden aprender y mejorar su rendimiento a partir de la experiencia.
