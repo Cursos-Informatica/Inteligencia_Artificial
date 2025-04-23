@@ -20,10 +20,17 @@ P.e. en el caso conjunto de datos para la detección de correos Spam, el conjunt
 |...    |...     |
 
 
+
 __Selección del Espacio de Hipótesis__
 
 - Se puede basar en conocimiento previo o en un análisis exploratorio de datos (gráficos, pruebas estadísticas).
 - Se pueden probar diferentes espacios y evaluar cuál se ajusta mejor.
+
+
+<p align="center">
+<img src="img/modelo_spam.png" width="700">
+</p>
+
 
 __Evaluación del Modelo__
 

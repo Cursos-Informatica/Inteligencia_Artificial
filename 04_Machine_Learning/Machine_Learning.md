@@ -64,10 +64,6 @@ El aprendizaje puede manejar datos representados como vectores de atributos (fac
 
 - Clasificación: Predicción de valores discretos (ej. spam/no spam).
 
-<p align="center">
-<img src="img/modelo_spam.png" width="500">
-</p>
-
 - Regresión: Predicción de valores numéricos (ej. temperatura del día siguiente).
 
 Este capítulo sienta las bases para entender cómo los agentes pueden aprender y mejorar su rendimiento a partir de la experiencia.
