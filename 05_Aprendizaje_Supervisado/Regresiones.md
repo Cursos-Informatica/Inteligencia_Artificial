@@ -47,9 +47,7 @@ b, y resolviendo el sistema de ecuaciones que se genera (igualando las derivadas
 Pero vamos paso a paso con el resultado final ya derivado:
 
 Fórmulas:
-\[
-m = \frac{ \sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y}) }{ \sum_{i=1}^{n}(x_i - \bar{x})^2 }
-\]
+$$ m = \frac{ \sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y}) }{ \sum_{i=1}^{n}(x_i - \bar{x})^2 } $$
  
 Donde:
 
