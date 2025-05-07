@@ -33,38 +33,52 @@ La función hipotesis de la regresión lineal, está representada por una funci�
 
 $$h_{\theta}(x)=\theta_{0}+\theta_{1}x_{1}+\theta_{2}x_{2}+...+\theta_{n}x_{n}$$
 
+__Como medimos el error?__
+
+La diferencia entre el valor real y el valor predicho es:
+errorᵢ = yᵢ - ŷᵢ = yᵢ - (m * xᵢ + b)
+
+Este error puede ser positivo o negativo. Si solo los sumamos, podrían cancelarse.
+
+Para evitar que los errores se cancelen entre sí y penalizar más los errores grandes, usamos el error cuadrático:
+(yᵢ - (m * xᵢ + b))²
+
+Ahora sumamos todos esos errores para todos los puntos del conjunto de entrenamiento:
+Σ (yᵢ - (m * xᵢ + b))²
+
+Y finalmente, como hay n muestras, sacamos el promedio:
+ECM(m, b) = (1/n) * Σ [yᵢ - (m * xᵢ + b)]²
+
 __Parámetros de la función__
 
 Los parámetros de la función $$\theta_{0}$$ y $$\theta_{1}$$ , determinan la función matematica. El objetivo es encontrar el valor optimo de esos parámetros que ajusten mejor a la tendencia de nuestros conjuntos de datos.
 
+¿Cómo se minimiza?
+Usamos cálculo diferencial para minimizarla. Para encontrar los valores óptimos de m y b, derivamos el ECM respecto a m y b, y los igualamos a cero:
 
-Derivando la función ECM con respecto a 
-𝑚
-m y 
-𝑏
-b, y resolviendo el sistema de ecuaciones que se genera (igualando las derivadas parciales a cero).
+1. Derivamos el ECM respecto a m y b:
+Derivada respecto a m:
 
+∂ECM/∂m = (-2/n) * Σ xᵢ * [yᵢ - (m * xᵢ + b)]
+
+Derivada respecto a b:
+
+∂ECM/∂b = (-2/n) * Σ [yᵢ - (m * xᵢ + b)]
+
+Derivando la función ECM con respecto a 𝑚 y 𝑏, y resolviendo el sistema de ecuaciones que se genera (igualando las derivadas parciales a cero).
 Pero vamos paso a paso con el resultado final ya derivado:
 
 Fórmulas:
 
 $$m=\frac{\sum_{i=1}^{n}(x_i-\bar{x})(y_i-\bar{y})}{\sum_{i=1}^{n}(x_i-\bar{x})^2}$$
- 
+
+$$b=\bar{y}-\bar{x}*m$$
+
 Donde:
 
-es el promedio de los valores de entrada 
-𝑥
-x
+$$\bar{x}$$ : es el promedio de los valores de entrada 
 
-𝑦
-ˉ
-y
-ˉ
-​
-  es el promedio de los valores de salida 
-𝑦
-y
-
+$$\bar{y}$$ : es el promedio de los valores de salida 
 
 https://www.youtube.com/watch?v=hmVh2ddVCK4
 
