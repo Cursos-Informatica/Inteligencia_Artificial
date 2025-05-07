@@ -4,7 +4,7 @@
 <img src="img/modelo.png" width="500">
 </p>
 
-### Conjunto de datos de entrenamient
+### Conjunto de datos de entrenamiento
 
 |Número sistema afectado (x)  | Coste en euros (y) |
 |-----------------------------|--------------------|
@@ -35,12 +35,6 @@ $$h_{\theta}(x)=\theta_{0}+\theta_{1}x_{1}+\theta_{2}x_{2}+...+\theta_{n}x_{n}$$
 
 ### Construcción del modelo
 
-
-
-__Función de coste__
-
-Se debe minimizar una función de coste J($$\theta$$), para obtener los parámetros óptimos.
-
 Para obtener la función en un regresion lineal utilizamos los siguientes comandos:
 
 from sklearn.linear_model import LinearRegression
@@ -69,3 +63,9 @@ __Parámetro theta 1__
 ```
 lin_reg.coef_
 ```
+
+### Función de coste
+
+Se debe minimizar una función de coste J($$\theta$$), para obtener los parámetros óptimos.
+
+https://www.youtube.com/watch?v=lkGyu70gAzE
