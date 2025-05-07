@@ -29,9 +29,46 @@ $$h_{\theta}(x)=\theta_{0}+\theta_{1}x$$
 
 La función hipotesis de la regresión lineal, está representada por una función generica que podria ser una linea recta en el caso de que solo se considere una caracteristica en el modelo.
 
-Si en el conjunto de datos se considerar varias caracteristicas para la evaluación del modelo, función hipotesis sería una regresión lineal multivariable la cual se representa de la siguiente manera:
+(*) Si en el conjunto de datos se considerar varias caracteristicas para la evaluación del modelo, función hipotesis sería una regresión lineal multivariable la cual se representa de la siguiente manera:
 
 $$h_{\theta}(x)=\theta_{0}+\theta_{1}x_{1}+\theta_{2}x_{2}+...+\theta_{n}x_{n}$$
+
+__Parámetros de la función__
+
+Los parámetros de la función $$\theta_{0}$$ y $$\theta_{1}$$ , determinan la función matematica. El objetivo es encontrar el valor optimo de esos parámetros que ajusten mejor a la tendencia de nuestros conjuntos de datos.
+
+
+Derivando la función ECM con respecto a 
+𝑚
+m y 
+𝑏
+b, y resolviendo el sistema de ecuaciones que se genera (igualando las derivadas parciales a cero).
+
+Pero vamos paso a paso con el resultado final ya derivado:
+
+Fórmulas:
+\[
+m = \frac{ \sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y}) }{ \sum_{i=1}^{n}(x_i - \bar{x})^2 }
+\]
+ 
+Donde:
+
+es el promedio de los valores de entrada 
+𝑥
+x
+
+𝑦
+ˉ
+y
+ˉ
+​
+  es el promedio de los valores de salida 
+𝑦
+y
+
+
+https://www.youtube.com/watch?v=hmVh2ddVCK4
+
 
 ### Construcción del modelo
 
@@ -49,10 +86,6 @@ donde fit entrena al modelo:
 🔹 df['coste']: es la variable dependiente (target) que se quiere predecir
 🔹 .values.reshape(-1, 1): transforma la columna en un array de 2D, requerido por scikit-learn (ya que espera una matriz de entrada, no un vector unidimensional) 
 
-__Parámetros de la función__
-
-Los parámetros de la función $$\theta_{0}$$ y $$\theta_{1}$$ , determinan la función matematica. El objetivo es encontrar el valor optimo de esos parámetros que ajusten mejor a la tendencia de nuestros conjuntos de datos.
-
 Para obtener estos datos se utilizan los siguientes comandos:
 
 __Parámetro theta 0__
@@ -63,9 +96,3 @@ __Parámetro theta 1__
 ```
 lin_reg.coef_
 ```
-
-### Función de coste
-
-Se debe minimizar una función de coste J($$\theta$$), para obtener los parámetros óptimos.
-
-https://www.youtube.com/watch?v=lkGyu70gAzE
