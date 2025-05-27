@@ -96,6 +96,7 @@ $$
 - 𝐾: capacidad máxima.
 
 La solución de esa ecuación es la función logística:
+
 $$
 P(t) = \frac{K}{1 + Ae^{-rt}}
 $$
@@ -130,6 +131,7 @@ https://www.youtube.com/watch?v=82Hxn6hu_P4
 $$
 P(y|x) = \frac{e^{\theta_{0}+\theta_{1}x}}{1 + e^{\theta_{0}+\theta_{1}x}}
 $$
+
 Esto representa la probabilidad de que y=1y=1 dado xx. Es la salida de una regresión logística, y el resultado siempre está entre 0 y 1.
 
 <p align="center">
