@@ -77,6 +77,7 @@ como una forma de transformar probabilidades para que pudieran analizarse con mo
 Berkson se basó en el concepto de odds (probabilidades relativas), que ya se usaban en estadística médica. El trabajo previo sobre la función sigmoide o curva logística, que Pierre François Verhulst había usado en 1838 para modelar crecimiento poblacional. Técnicas estadísticas como la máxima verosimilitud, que comenzaron a desarrollarse con fuerza en los años 1930-40.
 
 __Origen de la función logística__
+
 La función logística proviene del campo de la biología poblacional en el siglo XIX. Fue introducida por Pierre François Verhulst en 1838 como una forma de modelar el crecimiento de poblaciones.
 
 🔹 Problema original
@@ -116,6 +117,7 @@ El modelo logit parte de la distribución Bernoulli, que describe experimentos c
 Al aplicar máxima verosimilitud sobre datos binarios, se obtiene una función que lleva directamente a la forma de la regresión logística, en donde el logit aparece naturalmente.
 
 __En resumen__
+
 Joseph Berkson (1944) acuñó el término logit y propuso usarlo para modelar probabilidades.
 Se basó en:
 - La función logística usada desde el siglo XIX (Verhulst).
