@@ -44,12 +44,12 @@ y = variables de salida
 Ejemplo:
 
 Supón que tienes este modelo:
-$$
-P(y=1∣x) = \frac{1}{1 + e^{(−3+1.5x)}}
-$$
+
+$$P(y=1∣x) = \frac{1}{1 + e^{(−3+1.5x)}}$$
 
 Ejemplo:
 Si x es el numero de de tag html
+
     Si x=0, entonces:
     z=−3+1.5(0)=−3⇒probabilidad≈0.047(muybaja)
     z=−3+1.5(0)=−3⇒probabilidad≈0.047(muybaja)
