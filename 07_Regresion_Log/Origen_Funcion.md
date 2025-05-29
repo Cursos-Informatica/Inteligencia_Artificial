@@ -63,10 +63,10 @@ $$
 $$
 
 - El lado izquierdo:
+
 $$
 ∫\frac{1}{P} dP+∫\frac{1}{K−P} dP=ln⁡∣P∣−ln⁡∣K−P∣
 $$
-
 
 (Nota: en la segunda integral usamos el cambio de variable u=K−P)
 
@@ -119,12 +119,20 @@ Supón:
 - Población inicial: P(0)=100P(0)=100
 
 Primero, calculemos B:
+
 $$
 P(0)=\frac{K}{1+B}
+$$
+$$
 ⇒100=\frac{1000}{1+B}
+$$
+$$
 ⇒1+B=\frac{1000}{100}=10
+$$
+$$
 ⇒B=9
 $$
+
 Entonces la solución es:
 
 $$
