@@ -219,4 +219,16 @@ def plot_logit_and_sigmoid(theta_0=0.0, theta_1=1.0):
 plot_logit_and_sigmoid(theta_0=1, theta_1=1)
 ```
 
+Refencias
 
+- The elemens of Statistical Learning 
+
+https://drive.google.com/file/d/1VWYHo30-lzof_kDVHdxJ8tMMmYsBY3vY/view?usp=drive_link
+
+- An Intoduction to Statical Leaning
+
+https://drive.google.com/file/d/1nU9HisQVA1A16u0j4mGu9RWJ80-RCITR/view?usp=drive_link
+
+- Metodos Predictivos de Aprendizaje Estadistico
+
+https://rubenfcasal.github.io/aprendizaje_estadistico/m%C3%A9todos-de-aprendizaje-estad%C3%ADstico.html

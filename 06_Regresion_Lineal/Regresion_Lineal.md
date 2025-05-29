@@ -76,9 +76,9 @@ $$b=\bar{y}-\bar{x}*m$$
 
 Donde:
 
-$$\bar{x}$$ : es el promedio de los valores de entrada 
+$\bar{x}$ : es el promedio de los valores de entrada 
 
-$$\bar{y}$$ : es el promedio de los valores de salida 
+$\bar{y}$ : es el promedio de los valores de salida 
 
 https://www.youtube.com/watch?v=hmVh2ddVCK4
 

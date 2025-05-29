@@ -1,4 +1,4 @@
-## Laboratorio 05 : Datos
+## Laboratorio 06 : Regresión Logistica
 
 Paso 01: Ingresamos al siguiente enlace [link](source/lab05-datos.ipynb),y lo vamos ingresando en jupiter notebook.
 
