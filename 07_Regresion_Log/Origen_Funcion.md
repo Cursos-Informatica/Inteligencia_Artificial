@@ -191,9 +191,11 @@ plt.show()
 __Video__
 
 Aplicaciones de las EDO: Dinámica poblacional de Malthus. Modelo Logístico. Función sigmoidea
+
 https://www.youtube.com/watch?v=G-zYV9VS1rQ
 
 Modelo de crecimiento Logístico 
+
 https://www.youtube.com/watch?v=gjB5bY6yikU
 
 

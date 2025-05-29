@@ -125,7 +125,9 @@ Se basó en:
 - Los fundamentos de la estadística y la probabilidad (como Bernoulli).
 
 __Explicacion__
+
 Regresión logística
+
 https://www.youtube.com/watch?v=82Hxn6hu_P4
 
 1. Función logística (sigmoide):
