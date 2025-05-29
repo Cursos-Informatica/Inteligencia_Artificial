@@ -190,7 +190,11 @@ plt.show()
 ```
 __Video__
 
+https://www.youtube.com/watch?v=G-zYV9VS1rQ
+
 https://www.youtube.com/watch?v=gjB5bY6yikU
+
+
 
 ## Ejemplos
 
