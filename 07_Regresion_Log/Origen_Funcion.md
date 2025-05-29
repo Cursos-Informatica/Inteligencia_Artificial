@@ -4,7 +4,7 @@
 La forma de la ecuación es:
 
 $$
-\frac{dP}{dt}=rP(1−PK)
+\frac{dP}{dt}=rP(1−\frac{P}{K})
 $$
 
 Donde:
@@ -210,7 +210,7 @@ $$
 
 - Capacidad máxima de adopción: 100 millones de personas
 - Adopción inicial: 5 millones
-- Crecimiento rápido: r=0.5r=0.5
+- Crecimiento rápido: r=0.5
 
 📄 Código:
 
