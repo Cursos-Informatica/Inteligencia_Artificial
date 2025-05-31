@@ -1,5 +1,59 @@
+## Función Logistica
 
-### 1. Ecuación diferencial logística
+### 1. Crecimiento Exponencial - Modelo de Malthus (1798)
+
+Ecuación:
+
+$$
+\frac{𝑑𝑃}{𝑑𝑡}=𝑟𝑃
+$$
+​
+Esta ecuación dice que la tasa de cambio de 𝑃 respecto al tiempo t es proporcional a 𝑃 mismo.
+
+Objetivo:
+- Encontrar la función 𝑃(𝑡) que satisface esta ecuación.
+
+Paso a paso (por separación de variables):
+1. Reorganizamos para separar las variables 𝑃 y 𝑡:
+
+$$ 
+\frac{𝑑𝑃}{𝑃}=rdt
+$$
+
+2. Integramos ambos lados:
+
+$$
+∫\frac{1}{𝑃} 𝑑𝑃 = ∫ 𝑟𝑑𝑡 
+$$
+
+$$
+ln∣𝑃∣ = 𝑟𝑡+𝐶
+$$
+
+3. Eliminamos el logaritmo aplicando exponencial a ambos lados:
+
+$$
+𝑃=𝑒^{𝑟𝑡}+𝐶=𝑒𝐶⋅𝑒^{𝑟𝑡}
+$$ 
+
+Llamamos a $𝑒𝐶$ una nueva constante 𝐴, entonces:
+
+$$
+𝑃(𝑡)=𝐴𝑒^{𝑟𝑡}
+$$ 
+
+✅ Solución general:
+
+$$
+𝑃(𝑡)=𝐴𝑒^{𝑟𝑡}
+$$ 
+
+Donde: 
+- 𝐴 es la población inicial (cuando 𝑡=0),
+- 𝑟 es la tasa de crecimiento (si 𝑟 > 0, es crecimiento; si 𝑟<0 , es decaimiento).
+
+
+### 2. Ecuación diferencial logística - Verhulst (1838) 
 
 La forma de la ecuación es:
 
@@ -114,9 +168,9 @@ donde B=1/A​ → se puede determinar con condiciones iniciales.
 
 Supón:
 
-- Capacidad de carga: K=1000K=1000
-- Tasa de crecimiento: r=0.2r=0.2
-- Población inicial: P(0)=100P(0)=100
+- Capacidad de carga: K=1000
+- Tasa de crecimiento: r=0.2
+- Población inicial: P(0)=100
 
 Primero, calculemos B:
 
