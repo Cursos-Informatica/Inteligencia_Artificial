@@ -33,10 +33,10 @@ $$
 3. Eliminamos el logaritmo aplicando exponencial a ambos lados:
 
 $$
-𝑃=𝑒^{𝑟𝑡}+𝐶=𝑒𝐶⋅𝑒^{𝑟𝑡}
+𝑃=𝑒^{𝑟𝑡+𝐶}=𝑒^{𝐶}⋅𝑒^{𝑟𝑡}
 $$ 
 
-Llamamos a $𝑒𝐶$ una nueva constante 𝐴, entonces:
+Llamamos a $𝑒^{𝐶}$ una nueva constante 𝐴, entonces:
 
 $$
 𝑃(𝑡)=𝐴𝑒^{𝑟𝑡}
