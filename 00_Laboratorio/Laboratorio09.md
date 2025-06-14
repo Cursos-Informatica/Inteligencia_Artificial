@@ -1,8 +1,8 @@
-## Laboratorio 08 : Redes Neuronales Artificiales 
+## Laboratorio 09 : Redes Neuronales Artificiales 
 
-Paso 01: Descargar archivos de datos del laboratorio en el siguiente enlace [link](https://drive.google.com/file/d/1jyW5leoYk_BwL3k7vc-JCl1Ns0QBnyp7/view?usp=drive_link)
+Paso 01: Descargar archivos de datos del laboratorio en el siguiente enlace [link](data/fruits_binary.zip)
 
-Paso 02: Ingresamos al siguiente enlace para realiza la reducción de caracteristicas con el metodo PCA [link](source/lab07-reg_logistica02.ipynb),y lo vamos ingresando en jupiter notebook.
+Paso 02: Ingresamos al siguiente enlace  [link](source/lab09_Clasificacion_naranjas.ipynb),y lo vamos ingresando en jupiter notebook.
 
 
-Paso 03: Ingresamos al siguiente enlace para revisar la selección de caracteristicas con el metodo de Random Forest [link](source/lab08-Random-Forest.ipynb),y lo vamos ingresando en jupiter notebook.
+
