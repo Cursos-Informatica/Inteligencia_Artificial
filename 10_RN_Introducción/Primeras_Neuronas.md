@@ -60,14 +60,38 @@ https://www.youtube.com/watch?v=SU-44XQPh9w
 - Se basa en un tipo de neurona artificial conocida como Threhold Logic Unit (TLU)
 - La TLU computa una suma parametrizada de las entradas
 
-# Threshold Logic Unit - TLU
+### Threshold Logic Unit - TLU
 
 - La TLU computa una suma parametrizada de las entradas
 - Después, aplica una función de activación sobre la suma calculada anteriormente
 
 <p align="center">
-<img src="img/img_02.png" width="500">
+<img src="img/img_02.jpeg" width="500">
 </p>
+
+- El perceptrón se corresponde con una arquitectura copuesta por una única capa de tlUs
+- Permite la clasificación de instancias en diferentes clases binarias de manera simultánea
+
+### Funciones de activación
+
+- El perceptrón permite la clasificación de instancias en clases binarias de manera simultánea
+- Existen múltiples funciones de activación. Algunas de las más comunes son:
+
+
+- Heaviside step function
+
+```
+        heaviside(z) = { 0 if z < 0
+                         1 if z >= 0
+
+```
+- Sign function
+
+```
+                    -1 if z < 0
+        sgn (z) = {  0 if z = 0
+                     1 if z > 0
+```
 
 
 
