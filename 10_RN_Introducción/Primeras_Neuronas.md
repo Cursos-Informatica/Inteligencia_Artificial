@@ -23,7 +23,7 @@ import numpy as np
 ```
 # implemente la función del modelo M-P sin usar funciones predefinidas de numpy
 
-def neuronaM-P(E,I,u):
+def neuronaMP(E,I,u):
     for ini in I:
         if ini == 1:
             return 0
@@ -45,7 +45,7 @@ I=[0]
 u=1
 
 # Ejecución del modelo
-print(neuronaM-P(E,I,u))
+print(neuronaMP(E,I,u))
 ```
 
 https://www.youtube.com/watch?v=SU-44XQPh9w
