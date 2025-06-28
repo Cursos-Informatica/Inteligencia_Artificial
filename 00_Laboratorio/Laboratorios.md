@@ -109,6 +109,10 @@ Paso 02: Ingresamos al siguiente enlace  [link](source/lab09_Clasificacion_naran
 
 Paso 01: Ingresamos al siguiente enlace  [link](source/lab10_Perceptron.ipynb),y lo vamos ingresando en jupiter notebook.
 
+## Laboratorio 11 : RNA - Reconocimiento de Imagenes Perceptrón 
+
+Paso 01: Ingresamos al siguiente enlace  [link](source/lab11_Reconocimiento_Imagen_Perceptron.ipynb),y lo vamos ingresando en jupiter notebook.
+
 
 
 
