@@ -140,6 +140,13 @@ $$
 <img src="img/img_04.jpeg" width="500">
 </p>
 
+- Que es una red neuronal
+
+https://www.youtube.com/watch?v=jKCQsndqEGQ
+
+- Como aprenden las redes neuronales
+
+https://www.youtube.com/watch?v=mwHiaTrQOiI
 
 
 
