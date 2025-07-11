@@ -113,7 +113,9 @@ Paso 01: Ingresamos al siguiente enlace  [link](source/lab10_Perceptron.ipynb),y
 
 Paso 01: Ingresamos al siguiente enlace  [link](source/lab11_Reconocimiento_Imagen_Perceptron.ipynb),y lo vamos ingresando en jupiter notebook.
 
+## Laboratorio 12 : Implementando una RNA con Keras 
 
+Paso 01: Ingresamos al siguiente enlace  [link](source/lab12_Implementando_RNA_Keras.ipynb),y lo vamos ingresando en jupiter notebook.
 
 
 
